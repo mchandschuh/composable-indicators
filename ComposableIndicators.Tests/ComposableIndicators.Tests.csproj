@@ -46,6 +46,7 @@
     <Compile Include="IdentityIndicatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RollingWindowTests.cs" />
+    <Compile Include="SumComputationTests.cs" />
     <Compile Include="WindowIndicatorTests.cs" />
   </ItemGroup>
   <ItemGroup>

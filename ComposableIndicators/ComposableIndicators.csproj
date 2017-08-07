@@ -46,6 +46,7 @@
     <Compile Include="IndicatorOutputUpdated.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RollingWindow.cs" />
+    <Compile Include="SumComputation.cs" />
     <Compile Include="WindowIndicator.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
