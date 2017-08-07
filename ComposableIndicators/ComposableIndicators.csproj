@@ -40,8 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CombineIndicators.cs" />
+    <Compile Include="CompositeIndicator.cs" />
     <Compile Include="IdentityIndicator.cs" />
     <Compile Include="IIndicator.cs" />
+    <Compile Include="IndicatorExtensions.cs" />
     <Compile Include="IWindowComputation.cs" />
     <Compile Include="IndicatorOutputUpdated.cs" />
     <Compile Include="MeanComputation.cs" />
