@@ -61,6 +61,7 @@
     <Compile Include="RollingWindowTests.cs" />
     <Compile Include="SumComputationTests.cs" />
     <Compile Include="SumOfSquaresComputationTests.cs" />
+    <Compile Include="VarianceComputationTests.cs" />
     <Compile Include="WindowIndicatorTests.cs" />
   </ItemGroup>
   <ItemGroup>
